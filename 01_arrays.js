@@ -9,7 +9,8 @@
                     0     1      2
 */
 
-console.log('testing')
+let list = ['milk','bread','chicken','coffee'];
+console.log(list[2])
 
 /* 
 * length
@@ -21,6 +22,7 @@ console.log('testing')
     let x = arr.length
     (x will store the value  3)
 */
+console.log(list.length);
 
 /* 
 * Various Data Types
@@ -30,3 +32,11 @@ console.log('testing')
         - arrays are considered "objects"
         - is an instance of an array.
 */
+
+let avengers = [
+    'Nick', 2, false, 'Steve', 'Bruce',
+    ['Tony', 8, true]
+]
+
+console.log(typeof avengers);
+console.log(avengers instanceof Array);
