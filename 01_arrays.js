@@ -9,6 +9,8 @@
                     0     1      2
 */
 
+console.log('testing')
+
 /* 
 * length
 
