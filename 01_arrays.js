@@ -28,11 +28,3 @@
         - arrays are considered "objects"
         - is an instance of an array.
 */
-
-/* 
-! Challenge
-Using the array avengers, print (console log) the following three things:
-    1. "Bruce"
-    2. true
-    3. "Hello, Nick and Tony"
-*/
